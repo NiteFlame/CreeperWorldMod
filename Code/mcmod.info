@@ -1,0 +1,17 @@
+[
+	{ "modid": "CWM",
+	"name": "Creeper World Mod",
+	"description": "It will consume everything",
+	"version": "0.0.1",
+	"url" : "http://knucklecracker.com/",
+	"updateUrl": "",
+	"authorList":[
+		 "Nite_Flame"
+	],
+	"credits": "virgilw The maker of Creeper World and a great person",
+	"logoFile": "",
+	"screenshots":"",
+	"dependencies":[
+	]
+	}
+]
